@@ -1,17 +1,17 @@
 
-MERN Project: Employee Management System
+                                                                                    MERN Project: Employee Management System
 Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) project for managing employees within an organization. This system provides a comprehensive set of features to efficiently handle employee data.
 
 Features:
 
-Admin Login:
+Admin Login:<br>
             Access to the homepage is restricted to admin users only, ensuring security.Unauthorized attempts to access the homepage are blocked, and users are prompted with an alert message.
-Homepage:
+Homepage:<br>
           Upon successful login, the homepage displays profile cards for all employees.
           A search button allows users to find specific employee profiles quickly.
           Users can log out from the system using the logout button.
           An "Add Employee" button directs users to the registration page to add new employee details.
-Registration:
+Registration:<br>
               Users can register new employees by providing their details and uploading their profile pictures.
               Once registered, a new profile card is dynamically generated and displayed on the homepage.
 Employee Profile:
