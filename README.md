@@ -5,7 +5,7 @@ Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) project for managin
 Features:
 
 Admin Login:<br>
-            Access to the homepage is restricted to admin users only, ensuring security.Unauthorized attempts to access the homepage are blocked, and users are prompted with an alert message.<br>
+        &nbsp    Access to the homepage is restricted to admin users only, ensuring security.Unauthorized attempts to access the homepage are blocked, and users are prompted with an alert message.<br>
 Homepage:<br>
           Upon successful login, the homepage displays profile cards for all employees.<br>
           A search button allows users to find specific employee profiles quickly.<br>
